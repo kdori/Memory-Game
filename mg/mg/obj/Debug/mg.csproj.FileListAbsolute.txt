@@ -1,0 +1,10 @@
+D:\mg\mg\bin\Debug\mg.exe.config
+D:\mg\mg\bin\Debug\mg.exe
+D:\mg\mg\bin\Debug\mg.pdb
+D:\mg\mg\obj\Debug\mg.csprojAssemblyReference.cache
+D:\mg\mg\obj\Debug\mg.Properties.Resources.resources
+D:\mg\mg\obj\Debug\mg.csproj.GenerateResource.cache
+D:\mg\mg\obj\Debug\mg.csproj.CoreCompileInputs.cache
+D:\mg\mg\obj\Debug\mg.exe
+D:\mg\mg\obj\Debug\mg.pdb
+D:\mg\mg\obj\Debug\mg.MainForm.resources
